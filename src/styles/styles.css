@@ -71,10 +71,27 @@
     color: white;
   }
 
-  .timerBox {
+  .timerBox.blue{
     background-color: #008BF8;
     border-radius: 20px;
     padding-top: 20px;
+    margin-top: 20px;
   }
+
+  .timerBox.purple{
+    background-color: #88498F;
+    border-radius: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+  }
+
+  .timerBox.aquamarine{
+    background-color: #7AE7C7;
+    border-radius: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+  }
+
+  
   
   
